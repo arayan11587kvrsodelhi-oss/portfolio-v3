@@ -1,0 +1,10 @@
+{
+  "description": "A premium, fully editable developer portfolio template featuring responsive design, smooth animations, and customizable sections for showcasing skills and projects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
